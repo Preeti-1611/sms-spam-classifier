@@ -37,7 +37,7 @@ The model achieved **97% test accuracy** and was evaluated using:
 
 ##  How to Run Locally
 
-### 1️. Clone the Repository
+## 1️. Clone the Repository
 
 ```bash
 git clone https://github.com/Preeti-1611/sms-spam-classifier.git
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-Model Performance
+## Model Performance
 
 Train Accuracy: ~97.8%
 

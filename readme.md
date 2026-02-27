@@ -55,7 +55,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## Model Performance
+** Model Performance
 
 Train Accuracy: ~97.8%
 
@@ -63,7 +63,7 @@ Test Accuracy: ~97%
 
 High precision for spam detection
 
- Tech Stack
+**Tech Stack
 
 Python
 
